@@ -1,7 +1,7 @@
 body {
   background-color: #00FFFF;
   font-family: 'Arial', sans-serif;
-  color: #00FFFF; }
+  color: #FFFFFF; }
 .kartu-profil {
   width: 300px;
   margin: 50px auto;
@@ -9,3 +9,10 @@ body {
   background-color: white;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0,0,0,0,1); }
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%}
+
+.kartu-profil {
+  text-alight: center; }
